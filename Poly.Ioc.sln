@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poly.Ioc", "Ioc\Poly.Ioc.csproj", "{99A51CC1-DF9A-4584-A757-6F97C5B374C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poly.Ioc.Tests", "Ioc.Tests\Poly.Ioc.Tests.csproj", "{CF76EF9A-5A97-47E8-B05C-8F75554F3611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99A51CC1-DF9A-4584-A757-6F97C5B374C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A51CC1-DF9A-4584-A757-6F97C5B374C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A51CC1-DF9A-4584-A757-6F97C5B374C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A51CC1-DF9A-4584-A757-6F97C5B374C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF76EF9A-5A97-47E8-B05C-8F75554F3611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF76EF9A-5A97-47E8-B05C-8F75554F3611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF76EF9A-5A97-47E8-B05C-8F75554F3611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF76EF9A-5A97-47E8-B05C-8F75554F3611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F4A3E2B-59B6-49E0-AF8C-647F6136BAE6}
+	EndGlobalSection
+EndGlobal
